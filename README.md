@@ -116,4 +116,4 @@ Proceed with a phased investment in **Edo State**, targeting an **8,559-hectare 
 - `palm_oil_profitability_analysis.ipynb` – Full analytical model
 - `report/palm_oil_profitability_report.pdf` – Investor-ready report
 - `Dataset/palm_oil_profitability.csv` – Dataset
-- `https://app.powerbi.com/view?r=eyJrIjoiMzk5MmMxNGYtNDU0Mi00OTFjLThhN2MtYjlmYjc3ZDg5OWU1IiwidCI6Ijk2ZDcyMjUzLWY0NWItNDg1Mi1hZjRiLThiZjFkNTE3YmE3OCJ9&pageName=43d35339c783d932bdc4`– Interactive dashboard link and documentation
+- `Interactive dashboard link` *(https://app.powerbi.com/view?r=eyJrIjoiMzk5MmMxNGYtNDU0Mi00OTFjLThhN2MtYjlmYjc3ZDg5OWU1IiwidCI6Ijk2ZDcyMjUzLWY0NWItNDg1Mi1hZjRiLThiZjFkNTE3YmE3OCJ9&pageName=43d35339c783d932bdc4)*
